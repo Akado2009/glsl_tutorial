@@ -1,1 +1,1 @@
-# glsl_tutorial
+# glsl and opengl tutorial
